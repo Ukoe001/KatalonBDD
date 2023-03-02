@@ -1,0 +1,37 @@
+{
+  "keywordFileContentHash": "921F1D5C30D19B615F926F331F92FA08",
+  "keywordClasses": [
+    {
+      "name": "outsystems.common.accelerators.Browser",
+      "keywordMethods": [
+        {
+          "name": "OpenUrl",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "CloseBrowser",
+          "parameters": []
+        },
+        {
+          "name": "refreshBrowser",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

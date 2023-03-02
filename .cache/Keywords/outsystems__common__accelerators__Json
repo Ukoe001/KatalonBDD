@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "7EF77B626ADD861A2F9A83CE7D5A83CB",
+  "keywordClasses": [
+    {
+      "name": "outsystems.common.accelerators.Json",
+      "keywordMethods": [
+        {
+          "name": "GetJsonObjectMap",
+          "parameters": [
+            {
+              "name": "jsonString",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

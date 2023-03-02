@@ -1,0 +1,47 @@
+{
+  "keywordFileContentHash": "D1CAFB7B2B8B10A80DA77217A7B93D60",
+  "keywordClasses": [
+    {
+      "name": "outsystems.common.accelerators.API",
+      "keywordMethods": [
+        {
+          "name": "GetJsonObjectMap",
+          "parameters": [
+            {
+              "name": "jsonString",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "UrlEncode",
+          "parameters": [
+            {
+              "name": "toEncode",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

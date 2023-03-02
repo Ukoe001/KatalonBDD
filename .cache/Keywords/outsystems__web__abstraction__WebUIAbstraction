@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "6E87FB792E7B4E8E2C6B29BCE0AEE81E",
+  "keywordClasses": [
+    {
+      "name": "outsystems.web.abstraction.WebUIAbstraction",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
